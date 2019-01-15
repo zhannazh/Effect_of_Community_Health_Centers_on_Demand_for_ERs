@@ -20,7 +20,7 @@
 - Specifically, I **define patients in highway-adjacent areas as my treatment group** and **patients in the nearby but more highway-removed areas as my control group, and compare the number of ED visits in the two groups before and after a clinic entry.**
 - We would normally be concerned about any fundamental differences between treatment and control areas. But what is important for my second identification strategy is the assumption that emergency room use in treatment and control areas would evolve similarly over time in the absence of the clinic entry. Then, I can use temporal variation in the control group as a counter-factual for what would have happened in the treatment group (in the absence of the clinic entry). I do a few robustness checks to examine the validity of this assumption, including a placebo test in areas with no clinic entry. And it seems to hold.
 
-What I find is:
+**What I find is:**
 
 -  First, the number of ER visits by uninsured patients declines by about 10% as a result of the clinic entry between 2006 and 2010. [this is roughly a reduction of 2.5% semi-annually, which I show to be consistent with my estimates in the first strategy].
 - Second, the overall decline in ER visits is driven primarily by uninsured men. One explanation for this could be that women can get a certain amount of primary care services at family planning clinics, which also provide a lot of subsidized health services.
